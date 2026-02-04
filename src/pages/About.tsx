@@ -388,7 +388,7 @@ The protection of children is an integral component of KGSA’s approach:
 
             <Card key="khadija-abdullahi" className="shadow-card">
               <CardContent className="p-0">
-                <img src={kiddyImage} alt="Khadija Abdullahi" className="w-full h-66 object-cover" />
+                <img src={kiddyImage} alt="Khadija Fatma Abdullahi" className="w-full h-66 object-cover" />
                 <div className="p-4">
                   <CardTitle className="text-lg">Khadija Fatma Abdullahi</CardTitle>
                   <Badge variant="secondary" className="mb-2">Social media manager</Badge>
