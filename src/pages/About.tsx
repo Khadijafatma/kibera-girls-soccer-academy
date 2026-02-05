@@ -397,7 +397,7 @@ The protection of children is an integral component of KGSA’s approach:
                      graphics design and entrepreneurship from AkiraChix. Khadija manages 
                      the school’s social media and creates content for the Foundation’s 
                      communications. She loves researching what’s new in the tech
-                     field and designing in Photoshop and loves her work here.  ​</p>
+                     field and designing in Photoshop and loves her work.  ​</p>
 
                 </div>
               </CardContent>
